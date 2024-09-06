@@ -1,0 +1,11 @@
+;;This was compiled by Maria from the paper by Temple+2005
+;;Note that I am not actually positive of the energy range for all of these instruments.
+;;These are given in MJD. For the radio I used an assumed explosion epoch of Jan 1983 (MJD = 45349)
+;MJD, Instrument, Flux Error
+48486.1  ROSAT  790. 41.
+49206.5  ROSAT  491. 24.
+49374.5  ASCA    607. 13.
+49744.0  ROSAT  395. 26.
+50113.5  ASCA    528. 10.
+51852.0  Chandra  96.  5.
+52508.0  XMM   85. 15.

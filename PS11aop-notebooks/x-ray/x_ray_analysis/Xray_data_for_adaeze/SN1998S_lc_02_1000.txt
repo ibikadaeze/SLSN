@@ -1,0 +1,6 @@
+;;;This is from Pooley et al. 2002
+;;;  phase and luminosity (10^39) are listed here.  THey are all Chandra, I believe
+678.  9.3
+735.  8.8
+882.  6.1
+1048.  5.3
