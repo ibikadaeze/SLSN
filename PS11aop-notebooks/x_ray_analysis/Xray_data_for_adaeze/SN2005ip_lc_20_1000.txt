@@ -1,0 +1,17 @@
+Ref= Immler 2007 Atel#1004
+SpecModel= thermal plasma spec with assume dkT=1 keV and galactic NH=3.7d20
+
+time(days)			ertime			instrument		flux(1d-15 erg/s/cm2)		erflux 
+;456.				0.4304572		Swift-XRT                150			                       30.
+;1213.1420898                 262.0863037          Swift-XRT-PROVV     7.0000002160668373e+02  5.0000004e+01
+;;updated using information from Katsuda+2014 (1-6 years after explosion with Swift)
+;;They find that the spectra taken 2-3 years after the explosion are heavily absorbed, but that this gradually decreases after.
+;;They interpret this in the idea that it exploded in a dense CSM, but that the shock has overtaken it…
+;;The intrinsic luminosity stays constant until the final epoch when it falls by a factor of 2.
+;;I might want to examine the observed flux for these, or only the unabsorbed luminosity or something:
+;;Here I list the UNABSORBED flux:
+474.92 0.0 Swift-XRT  569. 150.
+798.09 0.0 Chandra    600. 100.
+1115.87 0.0 Swift-XRT  811. 150.
+1483.53 0.0 Swift-XRT  780. 170.
+2339.12 5.0 Swift-XRT  446. 100.
