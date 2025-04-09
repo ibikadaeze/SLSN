@@ -1,0 +1,40 @@
+;;RA, DEC, spec_z, PS1 Name 1, PS1 Name 2, MD, Skycell, Cut, Templ, E(B-V) gal, Comments
+
+Found by Search under spectype (Total 21)
+23:29:48.795 -00:17:29.07 0.259  PS1-10acl 070763 10  079  101  i  0.0324  ;No Armin z-band
+10:00:45.522 +02:01:24.14 0.092  PS1-10caa 110468 04  066  042  h  0.0153
+10:56:21.044 +57:39:55.60 0.422  PS1-11ad  120067 05  057  053  g  0.0060  ;Almost SLSN. Has post-2011 computed (912067)
+12:22:32.919 +47:19:48.51 0.282  PS1-11jf  130812 06  079  063  i  0.0122  ;VERY faint host Has post-2011 computed (913812)
+16:01:26.258 +55:14:25.79 0.400  PS1-11kj  130942 08  073  084  i  0.0074
+10:47:16.300 +59:01:25.87 0.116  PS1-11vo  150582 05  101  054  l  0.0081  ;bluechan host spec. Ryan3 paper on this object.  Has post-2011 computed (915582)
+23:30:48.917 -01:12:26.59 0.218  PS1-11aop 300140 10  034  101  d  0.0347  ;hecto spectrum on 20111027 (host). This was a multiple year decline.
+03:33:54.638 -28:48:23.48 -99.9  PS1-11aql 310072 02  024  021  c  0.0070  ;"Name your feature, Name your redshift". Could really use host gal of this one.
+12:20:37.278 +46:31:22.10 0.285  PS1-12gy  360030 06  034  064  d  0.0122  ;bluechan host spec.  Low signal LC.
+14:07:39.942 +52:14:37.82 0.473  PS1-12kn  360359 07  027  073  d  0.0100 
+10:02:21.344 +01:08:57.36 0.167  PS1-12zc  380012 04  023  042  c  0.0208  ;bluechan host spec. Great rise. Some flux remaining next year.
+16:05:02.625 +56:13:54.59 0.528  PS1-12apa 390712 08  087  081  j  0.0069  ;NO HOST
+22:17:39.870 +00:37:35.57 0.189  PS1-12bli 430005 09  053  094  f  0.0486
+02:23:33.538 -05:32:01.50 0.680  PS1-12car 450025 01  014  014  b  0.0204  ;No gband data?
+08:40:55.475 +44:56:41.60 0.193  PS1-12ces 450266 03  065  034  h  0.0220  ;bluechan host spec. Excellent LC covers rise and decline.
+03:33:04.148 -28:12:49.41 0.148  PS1-12cht 460001 02  034  024  d  0.0067
+12:29:08.591 +46:52:47.41 0.040  PS1-13hi  480845 06  041  061  e  0.0134  ;Aweful Light curve. Tons of masking etc.
+22:12:43.454 -00:05:07.52 0.682  PS1-13byi 530085 09  046  092  f  0.0662  ;Faint host. Low S/N LC.
+10:03:44.649 +02:45:47.90 0.184  PS1-13ecp 580234 04  062  042  g  0.0252
+03:32:54.127 -28:14:23.88 0.261  PS1-13epq 580280 02  034  024  d  0.0064
+02:28:34.310 -04:54:45.99 0.294  PS1-13epy 580289 01  031  012  d  0.0316
+
+Found by search in the spectra comments (not just spectype). These are less definative (total: 7)
+10:02:29.929 +01:30:06.63 0.374  PS1-10cdq 110446 04  043  044  e  0.0209  THIS STILL NEEDS TO BE ADDED IN GREAT LC. Maybe HST already?
+12:21:42.116 +47:23:00.01 0.082  PS1-11jg  130816 06  078  064  i  0.0151  ;hectospec transient spectrum
+22:17:36.680 +00:36:48.32 0.093  PS1-11aqj 200079 09  080  093  i  0.0485  ;hectospec transient spectrum. Might just be a Type IIP. Great LC. NO ARMIN LC**md09s053 94f in v3
+10:45:19.157 +59:04:54.94 0.201  PS1-12dm  350633 05  075  052  i  0.0052  ;hints of broader components. Great LC.
+02:23:54.622 -03:36:47.95 0.325  PS1-12bub 420248 01  064  014  h  0.0210  ;Long timescale. Might be AGN. But broad components. Faint Host.
+12:25:06.665 +47:55:33.93 0.137  PS1-13adh 500063 06  072  062  i  0.0118  ;Great light curve. Actually decently rapid.  Blue continuum. Might be.
+02:21:52.388 -03:26:00.76 0.780  PS1-13cvy 550221 01  076  011  i  0.0211  ;No strong features. "Likely Luminous Type II"  Very faint host.
+
+Other Listed by Edo (not in search)
+10:42:52.373 +58:01:58.21 0.244  PS1-10be  000133 05  064  053  h  0.0071  ;Just listed as "SNII". bluechan host spec
+
+Others selected by Nathan:
+16:01:36.025 +54:36:56.23 0.052  PS1-11alx 190266 08  061  082  g  0.0087  ;SDSS spec
+10:45:29.162 +59:29:42.74 0.072  PS1-12am  370469 05  085  054  j  0.0063  ;SDSS spec
